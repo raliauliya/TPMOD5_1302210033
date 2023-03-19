@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Documents\\Lia\\Telkom\\SEMS 4\\KPL\\TP\\TP_MOD5\\TP_MOD5_1302210033\\TP_MOD5_1302210033\\TP_MOD5_1302210033.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Documents\\Lia\\Telkom\\SEMS 4\\KPL\\TP\\TP_MOD5\\TPMOD5_1302210033\\TP_MOD5_1302210033\\TP_MOD5_1302210033\\TP_MOD5_1302210033.csproj",
       "projectName": "TP_MOD5_1302210033",
-      "projectPath": "C:\\Users\\Asus\\Documents\\Lia\\Telkom\\SEMS 4\\KPL\\TP\\TP_MOD5\\TP_MOD5_1302210033\\TP_MOD5_1302210033\\TP_MOD5_1302210033.csproj",
+      "projectPath": "C:\\Users\\Asus\\Documents\\Lia\\Telkom\\SEMS 4\\KPL\\TP\\TP_MOD5\\TPMOD5_1302210033\\TP_MOD5_1302210033\\TP_MOD5_1302210033\\TP_MOD5_1302210033.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Documents\\Lia\\Telkom\\SEMS 4\\KPL\\TP\\TP_MOD5\\TP_MOD5_1302210033\\TP_MOD5_1302210033\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Documents\\Lia\\Telkom\\SEMS 4\\KPL\\TP\\TP_MOD5\\TPMOD5_1302210033\\TP_MOD5_1302210033\\TP_MOD5_1302210033\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
